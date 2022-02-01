@@ -1,7 +1,7 @@
 # LS-AIR
 LSAIR is an existing relational database which contains data about airports, flights, airplanes, passengers... 
 
-This project is made up of 2 requirements. The first part is about updating a relational database and the second about design and implement graph database.
+This project is made up of 2 requirements. The first part is about updating a relational database and the second about designing and implementing a graph database.
 
 LSAIR relational database is divided in 4 modules. The first one is about flights, the second about airports, the third about shopping and the last one about luggage. There's an extra module that is a cross-module, in which we can use all tables of the database.
 
